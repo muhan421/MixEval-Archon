@@ -9,7 +9,7 @@ from openai._exceptions import RateLimitError
 class APIModelBase:
     def __init__(self, args):
         self.FIX_INTERVAL_SECOND = 0
-        self.MAX_RETRY_NUM = 512
+        self.MAX_RETRY_NUM = 20
         self.MAX_NEW_TOKENS = 1536
         
         self.get_user_message = lambda prompt: {"role": "user", "content": prompt}

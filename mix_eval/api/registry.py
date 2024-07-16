@@ -1,7 +1,10 @@
+import pdb
 MODEL_REGISTRY = {}
 
 
+
 def register_model(*names):
+
     # either pass a list or a single alias.
     # function receives them as a tuple of strings
 

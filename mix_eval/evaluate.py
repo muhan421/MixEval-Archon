@@ -198,7 +198,7 @@ def _eval(args):
         eval_dataset, 
         batch_size=args.batch_size, 
         shuffle=False, 
-        num_workers=32, 
+        num_workers=0, 
         collate_fn=lambda x: x
         )
     

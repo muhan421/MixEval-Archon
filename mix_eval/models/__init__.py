@@ -21,6 +21,7 @@ AVAILABLE_MODELS = {
     "qwen_15_32b_chat": "Qwen_15_32B_Chat",
     "qwen_15_72b_chat": "Qwen_15_72B_Chat",
     "qwen_15_110b_chat": "Qwen_15_110B_Chat",
+
     "qwen_15_moe_a27b_chat": "Qwen_15_MoE_A27B_Chat",
     "qwen_max_0428": "Qwen_Max_0428",
     "qwen_2_7b_instruct": "Qwen_2_7B_Instruct",
@@ -116,6 +117,18 @@ AVAILABLE_MODELS = {
     "reka_edge": "Reka_Edge",
     "reka_flash": "Reka_Flash",
     "reka_core": "Reka_Core",
+
+    # together api models
+    "qwen_15_110b_together": "Qwen_15_110B_Together",
+    "qwen_15_72b_together": "Qwen_15_72B_Together",
+    "dbrx_instruct_together": "DBRX_Instruct_Together",
+    "llama_3_70b_instruct_together":"Llama_3_70B_Instruct_Together",
+    "wizard_8_22b_together": "Wizard_8_22B_Together",
+    "mixtral_8_22b_together": "Mixtral_8_22B_Together",
+
+    # MoA — together api models
+    "moa_together": "MoA_Together",
+    "moa_lite_together": "MoA_Lite_Together",
     
     
     # additional
@@ -152,6 +165,8 @@ AVAILABLE_MODELS = {
     "mpt_7b_instruct": "MPT_7B_Instruct",
     
     "xwin_lm_7b_v01": "XWin_LM_7B_V01",
+
+    "moa": "MoAModel",
     
     "local_chat": "LocalChatModel",
     "local_base": "LocalBaseModel",
