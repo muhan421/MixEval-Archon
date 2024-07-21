@@ -129,6 +129,9 @@ AVAILABLE_MODELS = {
     # MoA — together api models
     "moa_together": "MoA_Together",
     "moa_lite_together": "MoA_Lite_Together",
+
+    # Archon
+    "archon_together": "Archon_Together",
     
     
     # additional
