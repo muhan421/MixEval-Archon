@@ -132,6 +132,12 @@ AVAILABLE_MODELS = {
 
     # Archon
     "archon_together": "Archon_Together",
+    "archon_together_2": "Archon_Together_2",
+    "archon_together_3": "Archon_Together_3",
+    "archon_together_4": "Archon_Together_4",
+    # hugging face models for Archon evaluations
+    "llama_3_instruct_8B_simPO_hf": "Llama_3_Instruct_8B_SimPO_Hf",
+    
     
     
     # additional

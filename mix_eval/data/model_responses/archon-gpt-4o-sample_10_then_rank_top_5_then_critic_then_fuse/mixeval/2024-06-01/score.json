@@ -1,0 +1,20 @@
+{
+    "overall score (final score)": 0.884,
+    "DROP": 0.883,
+    "BBH": 0.953,
+    "MATH": 0.94,
+    "GSM8k": 0.958,
+    "TriviaQA": 0.893,
+    "AGIEval": 0.724,
+    "MMLU": 0.863,
+    "MBPP": 1.0,
+    "BoolQ": 0.88,
+    "HellaSwag": 0.899,
+    "GPQA": 0.5,
+    "PIQA": 0.927,
+    "ARC": 0.978,
+    "OpenBookQA": 0.955,
+    "SIQA": 0.786,
+    "CommonsenseQA": 0.887,
+    "WinoGrande": 1.0
+}
