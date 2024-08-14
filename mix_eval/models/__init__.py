@@ -125,6 +125,10 @@ AVAILABLE_MODELS = {
     "llama_3_70b_instruct_together":"Llama_3_70B_Instruct_Together",
     "wizard_8_22b_together": "Wizard_8_22B_Together",
     "mixtral_8_22b_together": "Mixtral_8_22B_Together",
+    "qwen_2_72b_instruct_together": "Qwen_2_72B_Instruct_Together",
+    "deepseek_67b_together": "Deepseek_67B_Together",
+    "llama_31_70b_instruct_together": "Llama_31_70B_Instruct_Together",
+    "llama_31_405b_instruct_together": "Llama_31_405B_Instruct_Together",
 
     # MoA — together api models
     "moa_together": "MoA_Together",

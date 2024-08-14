@@ -13,7 +13,7 @@ from mix_eval.prompts.judge_prompts import gpt_judge_for_closeended_freeform
 from mix_eval.utils.common_utils import extract_basemodel_response_3e
 
 ########################ChatGPT########################
-class ChatGPTJudgeCloseendFreeform:
+class ChatGPTJudgeCloseendFreeform: 
     def __init__(self, args):
         self.args = args
         self.JUDGE = args.freeform_judge

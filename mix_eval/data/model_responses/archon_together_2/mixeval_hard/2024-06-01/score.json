@@ -1,19 +1,19 @@
 {
-    "overall score (final score)": 0.6425000000000001,
-    "MATH": 0.825,
-    "BBH": 0.819,
-    "DROP": 0.816,
-    "GSM8k": 0.959,
+    "overall score (final score)": 0.6345000000000001,
+    "MATH": 0.844,
+    "BBH": 0.7,
+    "DROP": 0.78,
+    "GSM8k": 0.9,
     "AGIEval": 0.563,
-    "TriviaQA": 0.692,
+    "TriviaQA": 0.687,
     "MBPP": 0.0,
-    "MMLU": 0.494,
+    "MMLU": 0.502,
     "HellaSwag": 0.59,
     "BoolQ": 0.405,
     "GPQA": 0.875,
     "PIQA": 0.5,
     "OpenBookQA": 0.75,
     "ARC": 0.5,
-    "SIQA": 0.55,
-    "CommonsenseQA": 0.56
+    "CommonsenseQA": 0.56,
+    "SIQA": 0.55
 }

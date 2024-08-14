@@ -21,8 +21,8 @@
         "split": "close_multichoice_hard"
     },
     "status": {
-        "batch_id": 1,
-        "time_elapsed": 51.82356357574463,
-        "status": "in progress"
+        "batch_id": 15,
+        "time_elapsed": 345.22356271743774,
+        "status": "complete"
     }
 }

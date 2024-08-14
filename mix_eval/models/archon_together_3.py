@@ -18,10 +18,7 @@ if parent_dir not in sys.path:
 from archon import Archon
 
 # Define the relative path to the JSON configuration file based on the `archon` directory
-#json_config_path = os.path.join(parent_dir, "configs", "archon-sonnet_3.5_Sonnet_3.5_unit_tests_first_then_sample_10_then_critic_then_fuse.json")
-
-# json_config_path = os.path.join(parent_dir, "configs", "archon-SOTA-modelsx8_1_samples_with_unit_tests_then_critic_then_rank_top5_then_critic_then_fuser.json")
-json_config_path = os.path.join(parent_dir, "configs", "archon-70Bx8_1_samples_then_critic_then_70Bx8_layer_then_fuser_with_Qwen2_72B.json")
+json_config_path = os.path.join(parent_dir, "configs", "archon-gpt-4o-alone")
 print("LOG: Loading Archon configuration from", json_config_path)
 with open(json_config_path, 'r') as f:
     config = json.load(f)

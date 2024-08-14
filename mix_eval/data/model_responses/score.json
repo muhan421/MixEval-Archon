@@ -1,21 +1,22 @@
 {
-    "llama_3_70b_instruct_together": {
-        "overall score (final score)": 0.5655,
-        "MATH": 0.9,
-        "BBH": 0.756,
-        "DROP": 0.65,
-        "GSM8k": 0.886,
-        "AGIEval": 0.549,
-        "TriviaQA": 0.594,
+    "archon_together": {
+        "overall score (final score)": 0.8755,
+        "DROP": 0.933,
+        "BBH": 0.919,
+        "MATH": 0.965,
+        "GSM8k": 0.968,
+        "TriviaQA": 0.906,
+        "AGIEval": 0.691,
+        "MMLU": 0.814,
         "MBPP": 0.0,
-        "MMLU": 0.463,
-        "HellaSwag": 0.639,
-        "BoolQ": 0.297,
+        "BoolQ": 0.886,
+        "HellaSwag": 0.835,
         "GPQA": 0.75,
-        "PIQA": 0.5,
-        "OpenBookQA": 0.375,
-        "ARC": 0.5,
-        "CommonsenseQA": 0.48,
-        "SIQA": 0.45
+        "PIQA": 0.927,
+        "ARC": 0.967,
+        "OpenBookQA": 0.886,
+        "SIQA": 0.796,
+        "CommonsenseQA": 0.854,
+        "WinoGrande": 0.667
     }
 }
